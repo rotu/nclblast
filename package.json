@@ -28,9 +28,8 @@
     ],
     "all": true
   },
-  "repository": {
-    "git": "https://github.com/nperf/nclblast"
-  },
+  "homepage": "https://github.com/nperf/nclblast#readme",
+  "repository": "github:nperf/nclblast",
   "devDependencies": {
     "@types/mocha": "^5.2.6",
     "@types/node": "^11.11.3",
